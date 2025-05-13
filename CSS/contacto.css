@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+.contenedor{
+    background:#000;
+    width: 90%;
+    margin: auto;
+    height: 100vh;
+} 
+    .formulario{
+        margin: 40px auto;
+    }
+        .formulario h2{
+            text-align: center;
+            margin:30px;
+            font-size: 40px;
+            color:#fff;
+        }
+form{
+    background-color:#0a2944ce;
+    height: 100vh;
+    color: #fff;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+} 
+    .cajita{
+        width: 100%;
+        margin:100px auto;
+        text-align: center;
+        height: 60px;
+        border-radius: 10px;
+    } 
+    .cajon{
+        width: 100%;
+        text-align: center;
+        height: 100px;
+        border-radius: 10px;
+    }     
+    .boton{
+        margin: 10px;
+        padding: 10px;
+        width: 120px;
+
+    }
